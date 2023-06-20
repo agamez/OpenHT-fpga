@@ -1,1 +1,6 @@
 impl_1/
+OpenHT_tcr.dir
+*.log
+OpenHT_tcl.html
+drc.log
+.*.ini
